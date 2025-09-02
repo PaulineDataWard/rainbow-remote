@@ -13,3 +13,11 @@ typeof(red_one_point_one_decimal) # "double"
 
 red_just_one <- 1
 typeof(red_just_one) # "double"
+
+# Orange juice, second colour ---
+grep(pattern = "^Cannot be *", x = "Cannot be 77")
+grepl(pattern = "^ran", x = "orange juice") # FALSE grep-logical
+grepl(pattern = "ran", "orange juice") # TRUE
+
+dietary_data_string <- "Scottish breakfast Lorne sausage and tattie scones"
+grepl("orange juice at breakfast", dietary_data_string) # copyright Susie McCabe ;-)

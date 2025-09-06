@@ -21,3 +21,9 @@ grepl(pattern = "ran", "orange juice") # TRUE
 
 dietary_data_string <- "Scottish breakfast Lorne sausage and tattie scones"
 grepl("orange juice at breakfast", dietary_data_string) # copyright Susie McCabe ;-)
+
+# Mellow Yellow, third colour ---
+mellow <- "Yellow is the third colour in this fresh rainbow."
+hello_cello <- "Please don't bellow!\nBe a jolly good fellow!\nWe do remember Othello."
+# Gah, I've done it, I've written my changes before changing branch oops.
+# Solution - use stash.

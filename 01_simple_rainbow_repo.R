@@ -27,3 +27,14 @@ mellow <- "Yellow is the third colour in this fresh rainbow."
 hello_cello <- "Please don't bellow!\nBe a jolly good fellow!\nWe do remember Othello."
 # Gah, I've done it, I've written my changes before changing branch oops.
 # Solution - use stash.
+
+# Buttercup Yellow
+# New Broom Feature
+flowers <- c(
+    "buttercup",
+    "sunflower",
+    "tulip",
+    "primrose",
+    "amaryllis",
+    "gorse"
+)

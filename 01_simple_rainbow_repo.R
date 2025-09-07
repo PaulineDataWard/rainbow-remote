@@ -38,6 +38,4 @@ flowers <- c(
     "amaryllis",
     "gorse"
 )
-
-# Green sheen ----
-# Green is the fourth colour of the rainbow
+# J'ai enlevee le vert ici pour preserver le jaune avant de faire checkout.

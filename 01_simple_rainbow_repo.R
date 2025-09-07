@@ -38,3 +38,6 @@ flowers <- c(
     "amaryllis",
     "gorse"
 )
+
+# Green sheen ----
+# Green is the fourth colour of the rainbow

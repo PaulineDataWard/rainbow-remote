@@ -39,3 +39,10 @@ flowers <- c(
     "gorse"
 )
 # J'ai enlevee le vert ici pour preserver le jaune avant de faire checkout.
+
+multicolour <- list(
+    pinks = list("carnation", "tulip", "cherry blossom", "fuchsia", "orchid"),
+    reds = list("tulip", "rose", "carnation"),
+    yellows = flowers
+)
+# yellows is a vector while the other colours are lists
